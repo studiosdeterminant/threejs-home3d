@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.determinantstudios.home3d" version="0.01" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Home3D</name>
+    <description>
+        Home3D
+    </description>
+    <author email="bipul@determinantstudios.com" href="http://cordova.io">
+        Determinant Studios
+    </author>
+    <content src="index.html" />
+    <plugin name="cordova-plugin-whitelist" version="1" />
+    <access origin="*" />
+	<preference name="Fullscreen" value="true" />
+    <preference name="WebViewBounce" value="false" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+		<plugin name="Geolocation" value="org.apache.cordova.GeoBroker" />
+		<preference name="disallowOverscroll" value="true" />
+		<preference name="AndroidLaunchMode" value="singleTop"/>
+		<preference name="android-minSdkVersion" value="19" />
+		<preference name="android-windowSoftInputMode" value="adjustResize" />
+		<preference name="SplashScreen" value="screen" />
+		<preference name="orientation" value="landscape" />
+		<splash src="res/screen/android/Splash.png" density="land-hdpi" />
+		<splash src="res/screen/android/Splash.png" density="land-ldpi" />
+		<splash src="res/screen/android/Splash.png" density="land-mdpi" />
+		<splash src="res/screen/android/Splash.png" density="land-xhdpi" />
+		<splash src="res/screen/android/Splash.png" density="port-hdpi" />
+		<splash src="res/screen/android/Splash.png" density="port-ldpi" />
+		<splash src="res/screen/android/Splash.png" density="port-mdpi" />
+		<splash src="res/screen/android/Splash.png" density="port-xhdpi" />
+
+		<icon src="res/screen/android/icon.png" density="ldpi" />
+		<icon src="res/screen/android/icon.png" density="mdpi" />
+		<icon src="res/screen/android/icon.png" density="hdpi" />
+		<icon src="res/screen/android/icon.png" density="xhdpi" />	
+    </platform>
+	
+	<preference name="SplashScreenDelay" value="5000" />
+	<preference name="SplashMaintainAspectRatio" value="true" />
+</widget>

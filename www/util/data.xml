@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<items>
+<!-- __________________________________________________________Dining Chair -->
+	<item type="dining-chair" category="furniture" id="1">
+		<uid>dining1-chair</uid>
+		<url>http://www.google.com</url>
+		<image>chair1.jpg</image>		
+		<title>Zuari</title>
+		<desc>Why do u need description</desc>
+		<price>$55</price>
+	</item>	
+
+	<item type="dining-chair" category="furniture">
+		<uid>dining2-chair</uid>
+		<url>http://www.google.com</url>
+		<image>chair.jpg</image>		
+		<title>chair-2</title>
+		<desc>Why do u need description</desc>
+		<price>$55</price>
+	</item>
+
+	<item type="dining-chair" category="furniture">
+		<uid>dining3-chair</uid>
+		<url>http://www.google.com</url>
+		<image>chair.jpg</image>		
+		<title>chair-3</title>
+		<desc>Why do u need description</desc>
+		<price>$55</price>
+	</item>
+
+<!-- __________________________________________________________Dining Table -->
+	<item type="dining-table" category="furniture" id="1">
+		<uid>dining1</uid>
+		<url>http://www.google.com</url>
+		<image>chair.jpg</image>		
+		<title>Zuari</title>
+		<desc>Why do u need description</desc>
+		<price>$55</price>
+	</item>	
+
+	<item type="dining-table" category="furniture">
+		<uid>dining2</uid>
+		<url>http://www.google.com</url>
+		<image>chair.jpg</image>		
+		<title>table-2</title>
+		<desc>Why do u need description</desc>
+		<price>$55</price>
+	</item>
+
+	<item type="dining-table" category="furniture">
+		<uid>dining3</uid>
+		<url>http://www.google.com</url>
+		<image>chair.jpg</image>		
+		<title>table-3</title>
+		<desc>Why do u need description</desc>
+		<price>$55</price>
+	</item>	
+
+<!-- __________________________________________________________Bed -->
+	<item type="bed" category="furniture" id="1">
+		<uid>bed1</uid>
+		<url>http://www.google.com</url>
+		<image>chair.jpg</image>		
+		<title>Tony Stark</title>
+		<desc>Multi-Billionaire, super Genius playboy</desc>
+		<price>$655</price>
+	</item>	
+
+	<item type="bed" category="furniture">
+		<uid>bed2</uid>
+		<url>http://www.google.com</url>
+		<image>chair.jpg</image>		
+		<title>Batman</title>
+		<desc>Alfred, Where are my shoes?</desc>
+		<price>$455</price>
+	</item>	
+
+
+<!-- __________________________________________________________Sofa1 -->
+	<item type="sofa1" category="furniture" id="1">
+		<uid>sofa1</uid>
+		<url>http://www.google.com</url>
+		<image>sofa1.jpg</image>		
+		<title>Iron-Man</title>
+		<desc>I am Iron-man</desc>
+		<price>$355</price>
+	</item>	
+
+	<item type="sofa1" category="furniture">
+		<uid>sofa2</uid>
+		<url>http://www.google.com</url>
+		<image>sofa2.jpg</image>		
+		<title>Spider-Man</title>
+		<desc>What am I doing here?</desc>
+		<price>$855</price>
+	</item>	
+
+	<item type="sofa1" category="furniture">
+		<uid>sofa3</uid>
+		<url>http://www.google.com</url>
+		<image>chair.jpg</image>		
+		<title>Hulk</title>
+		<desc>Do not angry me</desc>
+		<price>$455</price>
+	</item>
+
+<!-- __________________________________________________________Sofa2 -->
+	<item type="sofa2" category="furniture" id="1">
+		<uid>sofa4</uid>
+		<url>http://www.google.com</url>
+		<image>sofa4.jpg</image>		
+		<title>Loki</title>
+		<desc>I am God</desc>
+		<price>$355</price>
+	</item>	
+
+	<item type="sofa2" category="furniture">
+		<uid>sofa5</uid>
+		<url>http://www.google.com</url>
+		<image>chair.jpg</image>		
+		<title>Thor</title>
+		<desc>Only, if you can lift my hammer</desc>
+		<price>$855</price>
+	</item>	
+
+	<item type="tv">
+		<uid>chair1</uid>
+		<url>http://www.google.com</url>
+		<image>chair.jpg</image>		
+		<title>Captain America</title>
+		<desc>Why do u need description</desc>
+		<price>$55</price>
+	</item>	
+
+	<item type="tv">
+		<uid>chair1</uid>
+		<url>http://www.google.com</url>
+		<image>chair.jpg</image>		
+		<title>Hulk</title>
+		<desc>Why do u need description</desc>
+		<price>$55</price>
+	</item>	
+
+	<item type="plant">
+		<uid>chair1</uid>
+		<url>http://www.google.com</url>
+		<image>chair.jpg</image>		
+		<title>King Kong</title>
+		<desc>Why do u need description</desc>
+		<price>$55</price>
+	</item>	
+
+	<item type="plant">
+		<uid>chair1</uid>
+		<url>http://www.google.com</url>
+		<image>chair.jpg</image>		
+		<title>Batman</title>
+		<desc>Why do u need description</desc>
+		<price>$55</price>
+	</item>	
+
+
+</items>
